@@ -18,3 +18,5 @@
         @each('partials.user-box', $users, 'user')
     </div>
 @endsection
+
+
